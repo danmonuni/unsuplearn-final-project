@@ -15,4 +15,11 @@ Click the badge below to open and run the notebook in Google Colab:
 
 ## Results 
 
+## 📊 Results
+
+The full study with results is documented both in a written report and in a slide deck accessible below:
+
+[![View Report](https://img.shields.io/badge/Report-PDF-blue)](https://github.com/danmonuni/unsuplearn-final-project/blob/unsup_report.pdf)
+[![View Slides](https://img.shields.io/badge/Slides-Presentation-orange)](https://github.com/danmonuni/unsuplearn-final-project/blob/unsup_slides.pdf)
+
 
