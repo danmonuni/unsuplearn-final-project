@@ -13,8 +13,6 @@ Click the badge below to open and run the notebook in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danmonuni/unsuplearn_fp/blob/main_notebook_unsup.ipynb)
 
-## Results 
-
 ## 📊 Results
 
 The full study with results is documented both in a written report and in a slide deck accessible below:
